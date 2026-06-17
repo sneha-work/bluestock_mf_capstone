@@ -3,7 +3,7 @@
 > End-to-end Mutual Fund analytics project — ETL, EDA, Performance Metrics, Dashboard & Advanced Analytics
 
 ## Team
-Rohit Moningi · Vardhan Chennamsetty · Rudra Pawar · S.N. Thakur
+Sneha Thakur
 
 ---
 
@@ -83,15 +83,15 @@ This will:
 
 ## Deliverables
 
-| ID | Deliverable | Weight | Status |
-|----|------------|--------|--------|
-| D1 | ETL pipeline script | 15% | ✅ |
-| D2 | SQLite database + SQL | 10% | ✅ |
-| D3 | EDA notebook | 15% | ✅ |
-| D4 | Performance metrics | 15% | ✅ |
-| D5 | Interactive dashboard | 20% | ✅ |
-| D6 | Advanced analytics | 10% | ✅ |
-| D7 | Final report + slides | 15% | ✅ |
+| ID | Deliverable |
+|----|------------|
+| D1 | ETL pipeline script | 
+| D2 | SQLite database + SQL | 
+| D3 | EDA notebook | 
+| D4 | Performance metrics | 
+| D5 | Interactive dashboard | 
+| D6 | Advanced analytics | 
+| D7 | Final report + slides | 
 
 ---
 
@@ -117,7 +117,7 @@ print(recs)
 
 ## Tableau Dashboard
 Open `dashboard/bluestock_mf.twbx` in Tableau Desktop or Tableau Public.
-Data source: connect to `data/processed/` CSVs.
+Data source: https://public.tableau.com/app/profile/sneha.thakur4375/viz/tableau_mf/Dashboard1
 
 ---
 
