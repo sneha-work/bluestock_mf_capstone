@@ -3,7 +3,7 @@
 > End-to-end Mutual Fund analytics project — ETL, EDA, Performance Metrics, Dashboard & Advanced Analytics
 
 ## Team
-Rohit Moningi · Vardhan Chennamsetty · Rudra Pawar · S.N. Thakur
+Sneha Thakur
 
 ---
 
