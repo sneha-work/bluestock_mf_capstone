@@ -116,9 +116,9 @@ print(recs)
 ---
 
 ## Tableau Dashboard
-Open `dashboard/bluestock_mf.twbx` in Tableau Desktop or Tableau Public.
-Data source: connect to `data/processed/` CSVs.
+Open `dashboard/bluestock_mf.twbx` in Tableau Desktop or Tableau Public. Data source: connect to `data/processed/` CSVs.
 
+**Live Dashboard:** https://public.tableau.com/app/profile/sneha.thakur4375/viz/tableau_mf/Dashboard1
 ---
 
 ## Notes
